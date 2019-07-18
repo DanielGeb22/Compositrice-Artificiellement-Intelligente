@@ -1,11 +1,13 @@
 Titre : EVE (compositrice de musique avec l'IA)
 
-Participants : Marc Mass
+Participants : Marc Massaad - Quetin Ching - Daniel Gebran - Gabriel Said
 
-Description : 
+Description :
+BUT : Composer une musique à l’aide de l’IA.
+ORIGINALITÉ : Nous avons fait une musique sur un thème chinois grâce à l’IA composé d’un réseau de neurones.
 
-R�alisation du projet:
+Réalisation du projet: Chercher un site pour composer de la musique contenant de l’IA + Chercher un tuto sur Youtube pour nous aider. 
 
-Outils utilis�s :
+Outils utilisés : No ordinateur
 
 Liens :
