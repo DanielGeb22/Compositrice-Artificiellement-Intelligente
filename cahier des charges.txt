@@ -8,6 +8,8 @@ ORIGINALITÉ : Nous avons fait une musique sur un thème chinois grâce à l’I
 
 Réalisation du projet: Chercher un site pour composer de la musique contenant de l’IA + Chercher un tuto sur Youtube pour nous aider. 
 
-Outils utilisés : No ordinateur
+Outils utilisés : Nos ordinateurs - Logiciel AIVA - YouTube
 
-Liens :
+Liens : https://www.aiva.ai/
+        https://www.youtube.com/watch?v=sjDhHJyHhv4&feature=youtu.be&t=309
+
